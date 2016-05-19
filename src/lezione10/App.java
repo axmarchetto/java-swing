@@ -14,5 +14,6 @@ public class App {
     public static void main(String[] args) {
          System.out.println("java-swing main running");
          System.out.println("finish");
+         System.out.println("stampa di prova");
     }
 }
