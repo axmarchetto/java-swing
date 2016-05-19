@@ -15,5 +15,6 @@ public class App {
          System.out.println("java-swing main running");
          System.out.println("finish");
          System.out.println("stampa di prova");
+         System.out.println("seconda prova ");
     }
 }
